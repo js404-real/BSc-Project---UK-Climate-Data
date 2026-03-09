@@ -21,9 +21,9 @@ The data is sourced from the **ECMWF ERA5 Reanalysis** dataset.
 > **Note:** The code includes handling for ERA5 `expver` coordinates, merging Consolidated (final) and Preliminary (real-time) data streams automatically.
 
 ## Repository Structure
-* `notebooks/` - Jupyter Notebooks containing the main analysis and visualizations.
-* `scripts/` - Python scripts for data cleaning or batch processing.
-* `plots/` - Generated figures and temperature trend graphs.
+* `Conventional Plots/` - Jupyter notebooks with various conventional climate plots
+* `Machine Learning/` - Machine Learning notebooks
+* `(OUTDATED)/` - Unused Code
 
 ## Getting Started
 
